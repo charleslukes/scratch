@@ -24,6 +24,10 @@ nav img{
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 20px;
   }
+  .sidenav img{
+      height: 50px;
+      border-radius: 100%;
+  }
   
   /* The navigation menu links */
   .sidenav a {
@@ -53,5 +57,7 @@ nav img{
 .request-form{
     margin-top: 10%;
     margin-left: 25%;
-    padding-bottom: 100px;
+}
+.data-table{
+    margin: 5%;
 }

@@ -1,0 +1,70 @@
+{
+  "posts": [
+    {
+      "type": "Prepaid",
+      "amount": "N1000",
+      "quantity": "20",
+      "pin": "3116165875173753",
+      "id": 1
+    },
+    {
+      "type": "Prepaid",
+      "amount": "N1000",
+      "quantity": "20",
+      "pin": "8563392496454764",
+      "id": 2
+    },
+    {
+      "type": "Prepaid",
+      "amount": "N1000",
+      "quantity": "20",
+      "pin": "3169614586992765",
+      "id": 3
+    },
+    {
+      "type": "Prepaid",
+      "amount": "N1000",
+      "quantity": "20",
+      "pin": "554896655595329",
+      "id": 4
+    },
+    {
+      "type": "Prepaid",
+      "amount": "N1000",
+      "quantity": "20",
+      "pin": "2826375021864362",
+      "id": 5
+    },
+    {
+      "type": "Prepaid",
+      "amount": "N1000",
+      "quantity": "20",
+      "pin": "1870414167187843",
+      "id": 6
+    },
+    {
+      "type": "Prepaid",
+      "amount": "N1000",
+      "quantity": "20",
+      "pin": "2016725835468754",
+      "id": 7
+    },
+    {
+      "type": "Prepaid",
+      "amount": "N1000",
+      "quantity": "20",
+      "pin": "1416033251579850",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
