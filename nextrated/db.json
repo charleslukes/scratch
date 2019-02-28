@@ -1,153 +1,88 @@
 {
   "posts": [
     {
-      "type": "Prepaid",
-      "amount": "N1000",
-      "quantity": "20",
-      "pin": "3116165875173753",
-      "id": 1
-    },
-    {
-      "type": "Prepaid",
-      "amount": "N1000",
-      "quantity": "20",
-      "pin": "8563392496454764",
-      "id": 2
-    },
-    {
-      "type": "Prepaid",
-      "amount": "N1000",
-      "quantity": "20",
-      "pin": "3169614586992765",
-      "id": 3
-    },
-    {
-      "type": "Transfer",
-      "amount": "N1500",
-      "quantity": "1",
-      "pin": "6534239706512959",
-      "id": 4
-    },
-    {
-      "type": "Transfer",
-      "amount": "N1500",
-      "quantity": "1",
-      "pin": "5217009632730820",
-      "id": 5
-    },
-    {
-      "type": "Recharge Cards",
-      "amount": "N500",
-      "quantity": "5",
-      "pin": "8620179313669893",
-      "id": 6
-    },
-    {
-      "type": "Recharge Cards",
-      "amount": "N500",
-      "quantity": "5",
-      "pin": "1366582725604685",
-      "id": 7
-    },
-    {
-      "type": "Recharge Cards",
-      "amount": "N500",
-      "quantity": "5",
-      "pin": "7902467107708725",
+      "type": "Select a type",
+      "amount": "Amount",
+      "quantity": "Quantity",
+      "pin": "1404379577187573",
       "id": 8
     },
     {
       "type": "Recharge Cards",
-      "amount": "N500",
-      "quantity": "5",
-      "pin": "425195213640430",
-      "id": 9
-    },
-    {
-      "type": "Recharge Cards",
-      "amount": "N500",
-      "quantity": "5",
-      "pin": "2110496695149464",
-      "id": 10
-    },
-    {
-      "type": "Recharge Cards",
-      "amount": "N500",
-      "quantity": "5",
-      "pin": "5720804457779943",
-      "id": 11
-    },
-    {
-      "type": "Recharge Cards",
-      "amount": "N500",
-      "quantity": "5",
-      "pin": "2916760044338865",
-      "id": 12
-    },
-    {
-      "type": "Recharge Cards",
-      "amount": "N500",
-      "quantity": "5",
-      "pin": "3942304711860885",
-      "id": 13
-    },
-    {
-      "type": "Transfer",
-      "amount": "N1000",
-      "quantity": "20",
-      "pin": "5436732453590273",
+      "amount": "N200",
+      "quantity": "10",
+      "pin": "2642275705683116",
       "id": 14
     },
     {
-      "type": "Select a type",
-      "amount": "Amount",
-      "quantity": "Quantity",
-      "pin": "8779558670448475",
+      "type": "Recharge Cards",
+      "amount": "N200",
+      "quantity": "10",
+      "pin": "7181848211020237",
       "id": 15
     },
     {
-      "type": "Select a type",
-      "amount": "Amount",
-      "quantity": "Quantity",
-      "pin": "8893107755825718",
+      "type": "Recharge Cards",
+      "amount": "N200",
+      "quantity": "10",
+      "pin": "9946784077282108",
       "id": 16
     },
     {
-      "type": "Select a type",
-      "amount": "Amount",
-      "quantity": "Quantity",
-      "pin": "1892092346894704",
+      "type": "Recharge Cards",
+      "amount": "N200",
+      "quantity": "10",
+      "pin": "2013932152302292",
       "id": 17
     },
     {
-      "type": "Select a type",
-      "amount": "Amount",
-      "quantity": "Quantity",
-      "pin": "2763039711176005",
+      "type": "Recharge Cards",
+      "amount": "N200",
+      "quantity": "10",
+      "pin": "9058249703438504",
       "id": 18
     },
     {
-      "type": "Select a type",
-      "amount": "Amount",
-      "quantity": "Quantity",
-      "pin": "4913262840003117",
+      "type": "Recharge Cards",
+      "amount": "N200",
+      "quantity": "10",
+      "pin": "9757753281254144",
       "id": 19
     },
     {
       "type": "Select a type",
       "amount": "Amount",
       "quantity": "Quantity",
-      "pin": "6810428563849866",
+      "pin": "9210614577611052",
       "id": 20
-    }
-  ],
-  "comments": [
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "type": "Select a type",
+      "amount": "Amount",
+      "quantity": "Quantity",
+      "pin": "7950547410244788",
+      "id": 23
+    },
+    {
+      "type": "Select a type",
+      "amount": "Amount",
+      "quantity": "Quantity",
+      "pin": "9319008031707372",
+      "id": 24
+    },
+    {
+      "type": "Select a type",
+      "amount": "Amount",
+      "quantity": "Quantity",
+      "pin": "668731270785563",
+      "id": 25
     }
   ],
+  "admin": {
+    "id": 1,
+    "email": "charleslukes28@gmail.com",
+    "password": 12345
+  },
   "profile": {
     "name": "typicode"
   }
