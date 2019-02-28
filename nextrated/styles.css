@@ -12,6 +12,12 @@ nav img{
     height: 50px;
     border-radius: 100%;
 }
+
+/*update tabe*/
+#update{
+  padding-left: 30px;
+}
+
  /* The sidebar menu */
  .sidenav {
     height: 100%; /* Full-height: remove this if you want "auto" height */
@@ -40,7 +46,8 @@ nav img{
   
   /* When you mouse over the navigation links, change their color */
   .sidenav a:hover {
-    color: #f1f1f1;
+    color: white;
+    background: rgb(94, 167, 226);
   }
   
   /* Style page content */
