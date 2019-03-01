@@ -1,25 +1,25 @@
 {
   "posts": [
     {
-      "type": "Select a type",
-      "amount": "Amount",
-      "quantity": "Quantity",
-      "pin": "7198377098191727",
+      "type": "Transfer Code",
+      "amount": "N500",
+      "quantity": "20",
+      "pin": "6253782742321917",
       "id": 1
     },
     {
-      "type": "E-Top Up",
-      "amount": "N100",
-      "quantity": "5",
-      "pin": "3444984569708756",
+      "type": "Transfer Code",
+      "amount": "N500",
+      "quantity": "20",
+      "pin": "6790073533823774",
       "id": 2
     },
     {
-      "type": "E-Top Up",
-      "amount": "N100",
-      "quantity": "10",
-      "pin": "3138627101109024",
-      "id": 4
+      "type": "Transfer Code",
+      "amount": "N500",
+      "quantity": "20",
+      "pin": "1575700913064064",
+      "id": 3
     }
   ],
   "admin": {

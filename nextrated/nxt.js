@@ -13,7 +13,6 @@ function info(id){
           $info.append('<li><strong>Type: </strong>'+data.type+'</li>')
           $info.append('<li><strong>Amount: </strong>'+data.amount+'</li>')
           $info.append('<li><strong>Quantity: </strong>'+data.quantity+'</li>')
-          //$info.append('<li><strong>Pin: </strong>'+data.pin+'</li>')
           for(let i = 0; i< parseInt(num); i++){
              $info.append('<li><strong>Pin: </strong>'+Math.floor(Math.random()*10000000000000000)+1+'</li>')
           }
@@ -96,30 +95,15 @@ $(document).ready(function() {
     
 });
 
-
-
-// $(function() {
-//     startRefresh();
-// });
-
-// function startRefresh() {
-//     setTimeout(startRefresh,1000);
-//     $.get('index.html', function(data) {
-//         $('#tableId').html(data);    
-//     });
-//}
-
 //Deleting from the tables
 function deleteFunc(id){
-    let $table = $(this).closest('#tableId');
-    let self = this;
 
     $.ajax({
         type: 'DELETE',
         url: `http://localhost:3000/posts/${id}`,
         success: function(){
-            $table.remove();
-            //startRefresh();
+            alert('Row Deleted');
+            location.reload();
         },
         error: function(){
             alert('error');
