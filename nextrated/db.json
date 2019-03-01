@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "type": "Transfer Code",
+      "amount": "N500",
+      "quantity": "20",
+      "pin": "6253782742321917",
+      "id": 1
+    },
+    {
+      "type": "Transfer Code",
+      "amount": "N500",
+      "quantity": "20",
+      "pin": "6790073533823774",
+      "id": 2
+    },
+    {
+      "type": "Transfer Code",
+      "amount": "N500",
+      "quantity": "20",
+      "pin": "1575700913064064",
+      "id": 3
+    }
+  ],
+  "admin": {
+    "id": 1,
+    "email": "charleslukes28@gmail.com",
+    "password": 12345
+  },
+  "profile": {
+    "name": "typicode"
+  }
+}

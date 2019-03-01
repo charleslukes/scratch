@@ -1,4 +1,73 @@
-nav{
+body{
+  background: #f4f4f4;
+}
+.navbar{
     background: rgb(94, 167, 226);
     color: white;
+    position: fixed;
+    width: 100%;
+    top: 0%;
+    left: 0;
+    z-index: 1;
+}
+
+nav img{
+    height: 50px;
+    border-radius: 100%;
+}
+
+/*update tabe*/
+#update{
+  padding-left: 30px;
+}
+
+ /* The sidebar menu */
+ .sidenav {
+    height: 100%; /* Full-height: remove this if you want "auto" height */
+    width: 200px; /* Set the width of the sidebar */
+    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+    /*z-index: 0; /* Stay on top */
+    top: 10%; /* Stay at the top */
+    left: 0;
+    background-color: rgb(17, 17, 17); /* Black */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 20px;
+  }
+  .sidenav img{
+      height: 50px;
+      border-radius: 100%;
+  }
+  
+  /* The navigation menu links */
+  .sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #818181;
+    display: block;
+  }
+  
+  /* When you mouse over the navigation links, change their color */
+  .sidenav a:hover {
+    color: white;
+    background: rgb(94, 167, 226);
+  }
+  
+  /* Style page content */
+  .main {
+    margin-left: 200px; /* Same as the width of the sidebar */
+    padding: 10px 10px;
+  }
+  
+  /* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  } 
+.request-form{
+    margin-top: 10%;
+    margin-left: 25%;
+}
+.data-table{
+    margin: 5%;
 }

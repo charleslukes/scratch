@@ -1,0 +1,24 @@
+body{
+     background-image: url(img/bg1.jpg);
+    background-repeat: no-repeat;
+}
+.admin{
+     height: 200px;
+     width: 200px;
+     margin: 10% 0 0 30%;
+}
+p{
+     color: white;
+     font-weight: 600;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 30px;
+     margin-left: 26%;
+}
+form{
+     position: absolute;
+     top: 18%;
+     left: 60%;
+     color: white;
+     width: 20%;
+
+}
