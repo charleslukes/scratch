@@ -4,78 +4,22 @@
       "type": "Select a type",
       "amount": "Amount",
       "quantity": "Quantity",
-      "pin": "1404379577187573",
-      "id": 8
+      "pin": "7198377098191727",
+      "id": 1
     },
     {
-      "type": "Recharge Cards",
-      "amount": "N200",
+      "type": "E-Top Up",
+      "amount": "N100",
+      "quantity": "5",
+      "pin": "3444984569708756",
+      "id": 2
+    },
+    {
+      "type": "E-Top Up",
+      "amount": "N100",
       "quantity": "10",
-      "pin": "2642275705683116",
-      "id": 14
-    },
-    {
-      "type": "Recharge Cards",
-      "amount": "N200",
-      "quantity": "10",
-      "pin": "7181848211020237",
-      "id": 15
-    },
-    {
-      "type": "Recharge Cards",
-      "amount": "N200",
-      "quantity": "10",
-      "pin": "9946784077282108",
-      "id": 16
-    },
-    {
-      "type": "Recharge Cards",
-      "amount": "N200",
-      "quantity": "10",
-      "pin": "2013932152302292",
-      "id": 17
-    },
-    {
-      "type": "Recharge Cards",
-      "amount": "N200",
-      "quantity": "10",
-      "pin": "9058249703438504",
-      "id": 18
-    },
-    {
-      "type": "Recharge Cards",
-      "amount": "N200",
-      "quantity": "10",
-      "pin": "9757753281254144",
-      "id": 19
-    },
-    {
-      "type": "Select a type",
-      "amount": "Amount",
-      "quantity": "Quantity",
-      "pin": "9210614577611052",
-      "id": 20
-    },
-    {
-      "type": "Select a type",
-      "amount": "Amount",
-      "quantity": "Quantity",
-      "pin": "7950547410244788",
-      "id": 23
-    },
-    {
-      "type": "Select a type",
-      "amount": "Amount",
-      "quantity": "Quantity",
-      "pin": "9319008031707372",
-      "id": 24
-    },
-    {
-      "type": "Select a type",
-      "amount": "Amount",
-      "quantity": "Quantity",
-      "pin": "668731270785563",
-      "id": 25
+      "pin": "3138627101109024",
+      "id": 4
     }
   ],
   "admin": {
